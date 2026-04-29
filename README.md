@@ -3,7 +3,7 @@
 # 🐺 Ashena: The Spirit of the Steppe 🌌
 
 ---
-
+https://github.com/AshenaOfLight/AshenaOfLight/issues/1#issue-4352714037
 ### "Rooted in the Skies, Guided by the Light"
 
 According to the ancient legends, when a lineage was on the brink of vanishing, 
